@@ -1,11 +1,20 @@
 ### Machine Learning Topics
 
-Regression
-Decision Trees
-Random Forests
-Clustering
-Dimensionality Redcution
-Support Vector Machines
-Boosting ALgorithms
-Bias-Variance
-Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+
+| TOPICS                  |    YES/NO     |  
+|-------------------------|:-------------:|
+|   Regression            |      YES      | 
+| Decision Trees          |      YES      |  
+| Random Forests          |      YES      |    
+|Ensmeble Leaning Methods |      NO       |  
+|      Clustering         |      YES      |
+|Dimensionality Redcution |      YES      | 
+| Support Vector Machines |      YES      |  
+|   Boosting ALgorithms   |      YES      |  
+|   Bias-Variance         |      YES      |  
+
+
+**Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)** - **YES**
+ 
+
+
