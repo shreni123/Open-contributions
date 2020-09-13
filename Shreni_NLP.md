@@ -23,8 +23,8 @@
 |  Hyperparameter tuning  |       NO      |  
 |   Batch Normalization   |       NO      |  
 |     Optimization        |       NO      |  
+|   Evalutation Metrics   |       YES     | 
 
-**Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)** - **YES**
  
 
 
